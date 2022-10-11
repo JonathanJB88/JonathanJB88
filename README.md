@@ -25,12 +25,11 @@ I am a Full Stack Developer with a passion for building beautiful and user-frien
     </a>
 <p/>
 
-<br>
-<footer align='center'>Thanks for visiting!</footer>
-
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<footer align='center'>Thanks for visiting!</footer>
 
 ---
 
