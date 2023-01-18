@@ -3,7 +3,7 @@
 # **Hello, I'm [Jonathan Bracho](https://www.linkedin.com/in/jonathanbracho/)** <img width="45" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="holis">
 
 ## 💫 About Me:
-I am a Full Stack Developer with a passion for building beautiful and user-friendly web applications. I am also a quick learner and have a keen eye for detail.<br>If you're looking for a Full Stack Developer to help build your next web application, please get in touch. I'd be happy to chat and see if I can be of assistance. I really enjoy working with teams to create high-quality software.
+I'm a highly skilled and experienced Frontend Developer with over 2 years of experience in developing with React and TypeScript. Proficient in coding unit tests with Jest, using Scrum for agile methodologies and Git & GitHub for version control. Strong background in problem solving, strategic planning and team leadership. I hold multiple certifications in React, TypeScript, and Web Development. I hold a Bachelor's degree in Math and Physics Education, a Master's degree in Business Administration and Management, and a Full Stack Developer certification. Fluent in English and Spanish, with an EF SET English Certificate (C2 Proficient) and experience as a bilingual teacher. Strongly committed to continuous learning and professional development.
 
 ## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jonathanbracho/) 
 
